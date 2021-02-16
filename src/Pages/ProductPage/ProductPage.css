@@ -1,0 +1,12 @@
+.product{
+    margin: 10%;
+}
+.price{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.image{
+    float: left;
+    width: 300px;
+}
